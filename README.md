@@ -4,7 +4,8 @@
 - 繁體中文描述請參照[這裡](https://github.com/j2rong/FakeLocation/blob/master/README_zh_rTW.md)
 - 这是一个 ***Xposed*** 模块，用于模拟地理位置，世界在手天下我有。
 - 无需模拟位置权限
-
+http://api.cellocation.com:81/recell.html
+http://www.oneplusbbs.com/thread-3998015-1.html
 <br/>
 
 ## 屏幕截图 (Screenshots)
